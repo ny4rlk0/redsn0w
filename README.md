@@ -3,4 +3,4 @@
 >All redsn0w versions (macOS + Windows)
 
 > [!CAUTION]
-> Scan with virustotal before using. I am giving no warranty because i did not create the files!
+> Scan with Virus Total before using. I am giving no warranty because i did not create the files!
