@@ -1,5 +1,4 @@
 # redsn0w
-All redsn0w versions I could find(macOS + Windows)
-
-## Copyright blah blah
-I don't own the rights, blah blah, no copyright infringement intended, blah blah blah, blah blah blah, no sue pls
+All redsn0w versions (macOS + Windows)
+> [!WARNING]
+> Scan with virustotal before using. I am giving no warranty because i did not create the files!
